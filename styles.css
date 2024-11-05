@@ -5,7 +5,7 @@ url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12
     --bg-color: #222831;
     --primary-color: #DDDDDD;
     --secundary-color: #F05454;
-    --font: “Nunito Sans”, sans-serif;
+    --font: "Nunito Sans", sans-serif;
     }
     body {
         background-color: var(--bg-color);
@@ -59,6 +59,9 @@ url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12
                 padding: 2rem;
                 border: var(--secundary-color) solid 2px;
             }
+        .grafico {
+                margin-top: 3rem;
+                }
         span {
                 font-weight: bold;
                 color: var(--secundary-color);
