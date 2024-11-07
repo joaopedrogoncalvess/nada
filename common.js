@@ -7,4 +7,4 @@ const getCSS = (variavel) => {return getComputedStyle(document.body).getProperty
         family: getCSS('--font')
         }
     
-export {getCSS}
+export {getCSS, tickConfig}
